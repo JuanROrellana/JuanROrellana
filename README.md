@@ -6,7 +6,7 @@
 
 ### 🤖 About Me
 
-- 🧠 Lead / Staff **AI Engineer** & **AWS Architect** at [FullStack Labs](https://www.fullstacklabs.co/)
+- 🧠 **AI Engineer** & **AWS Architect** at [FullStack Labs](https://www.fullstacklabs.co/)
 - ⚡ I design and build **agentic AI systems**, **MCP servers**, and **serverless AWS pipelines**
 - 🛠️ Core stack: **TypeScript · Python · AWS CDK · LangChain · CrewAI · LangFuse · Bedrock**
 - 🌎 Based in **El Salvador** — working with global clients across the Americas
